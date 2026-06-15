@@ -55,7 +55,7 @@ of Indian Institute of Information Technology, Lucknow.
 The contributors of the project are :
 
   * [AMANVISHWAKARMA27](https://github.com/AMANVISHWAKARMA27)
-  * [theayushyadav11](https://github.com/theayushyadav11)
+  * [gupta-anu](https://github.com/gupta-anu)
   * [salonii02](https://github.com/salonii02)
   * [ssarthakxtiwari](https://github.com/sarthakxtiwari)
 
